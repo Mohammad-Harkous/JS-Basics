@@ -1,4 +1,4 @@
-function change_image () {
+function change_images () {
 
     document.querySelector("#image1").src = "images/image1_2.jpg";
     document.querySelector("#image2").src = "images/image2_2.jpg";
