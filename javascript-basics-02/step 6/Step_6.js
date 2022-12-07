@@ -18,7 +18,3 @@ function orginal_images() {
 
 
 
-
-/*onMouseOver="change_images()";*/
-
-/*onmouseleave="orginal_images()"*/
