@@ -1,4 +1,4 @@
-function Abc ()  {
+function total()  {
 
     var shoe_size = document.getElementById("shoe_size").value;
    var  year_of_brith = document.getElementById("year").value;
